@@ -84,9 +84,7 @@ OPENROUTER_KEY = ""
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 WARN_DELETE_DELAY = 7
 3️⃣ Run the Bot
-bash
-Copy code
-python3 bot.py
+python3 bot.py ```
 🧠 AI Logic Flow
 text
 Copy code
